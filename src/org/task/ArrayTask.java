@@ -22,6 +22,8 @@ for (int i = 0; i < 4; i++) {
 
 //for (int ia : num) {
 //	System.out.println(ia);
+ System.out.println("new joinee A");
+ System.out.println("Worked in Brank A");
 	
 	
 }
